@@ -1,0 +1,10 @@
+.idea/
+*.iml
+
+### macOS ###
+*.DS_Store
+.AppleDouble
+.LSOverride
+
+### Maven ###
+target/
